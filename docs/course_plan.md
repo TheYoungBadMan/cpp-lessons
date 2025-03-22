@@ -128,7 +128,7 @@
 
 - ### Библиотека `type_traits`
 
-## Идиомы программирования на `C++`
+## Идиомы `C++`
 
 - ### RAII (Resource Acquisition Is Initialization)
 
